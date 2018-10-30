@@ -77,20 +77,7 @@ using System.Text;
 
         } // works out new health value
 
-        public override bool IsDeath()
-        {
-
-            if (Health <= 0)
-            {
-                return true;
-
-
-            }//end if
-            else
-            {
-                return false;
-            }//end else
-        }//works out if an object is out of health
+        
 
     public override bool IsDestroyed()
         {

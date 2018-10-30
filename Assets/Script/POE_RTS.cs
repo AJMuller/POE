@@ -173,7 +173,7 @@ public class POE_RTS : MonoBehaviour {
                 {
                     Instantiate(blueFactory, new Vector2(fb.XPos, fb.YPos), Quaternion.identity);
                 }//end else
-                if (fb.isDeath())
+                if (fb.IsDestroyed())
                 {
                     Instantiate(death, new Vector2(fb.XPos, fb.YPos), Quaternion.identity);
 
@@ -193,7 +193,7 @@ public class POE_RTS : MonoBehaviour {
                 {
                     Instantiate(bluesource, new Vector2(rb.XPos, rb.YPos), Quaternion.identity);
                 }//end else
-                if (rb.isDeath())
+                if (rb.IsDestroyed())
                 {
                     Instantiate(death, new Vector2(rb.XPos, rb.YPos), Quaternion.identity);
 
@@ -212,7 +212,7 @@ public class POE_RTS : MonoBehaviour {
                 {
                     Instantiate(blueHospital, new Vector2(fh.XPos, fh.YPos), Quaternion.identity);
                 }//end else
-                if (fh.isDeath())
+                if (fh.IsDestroyed())
                 {
                     Instantiate(death, new Vector2(fh.XPos, fh.YPos), Quaternion.identity);
 
@@ -231,7 +231,7 @@ public class POE_RTS : MonoBehaviour {
                 {
                     Instantiate(blueUpgrade, new Vector2(wu.XPos, wu.YPos), Quaternion.identity);
                 }//end else
-                if (wu.isDeath())
+                if (wu.IsDestroyed())
                 {
                     Instantiate(death, new Vector2(wu.XPos, wu.YPos), Quaternion.identity);
 

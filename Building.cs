@@ -19,7 +19,7 @@ using System.Text;
         abstract public bool IsDestroyed();
         abstract public string ToString();
         abstract public void Fight(int attack);
-        abstract public bool isDeath();
+        
 
 
 
