@@ -1,0 +1,44 @@
+fileFormatVersion: 2
+guid: 1188614b9769e404eb1b3f219a1fdb73
+timeCreated: 1540372774
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - blueFactory: {fileID: 1438347834730432, guid: e910b246ae14b034c85c67c6898f847d,
+      type: 2}
+  - redFactory: {fileID: 1141003641595354, guid: d337aa1ff429df147bd0764cfe876a6a,
+      type: 2}
+  - blueFighterJet: {fileID: 1764188357261588, guid: 246e8e4ef43e9ca438cc556ec688cd59,
+      type: 2}
+  - redFighterJet: {fileID: 1798032209777772, guid: bb0954ce03bb5744bb330ef4f91beb14,
+      type: 2}
+  - blueHeli: {fileID: 1583051323489214, guid: 0db4a8400cb36754081518a6197d6840, type: 2}
+  - redHeli: {fileID: 1908718569987618, guid: f7b934c051395ea489754f367535760a, type: 2}
+  - blueHospital: {fileID: 1864121054694514, guid: 52af063c0a262b143baccdc5df12bed1,
+      type: 2}
+  - redHospital: {fileID: 1643300644365604, guid: 66c2c308f68752f439af36986043a26e,
+      type: 2}
+  - blueMelee: {fileID: 1692782682778820, guid: 6e8605b2806c4bf4ca90d5abc96c580d,
+      type: 2}
+  - redMelee: {fileID: 1688407827170008, guid: 698fa3ba710f4f14badc2d4ecfc26032, type: 2}
+  - blueRanged: {fileID: 1567729071203618, guid: 738baed91ed053146945a3bd68211740,
+      type: 2}
+  - redRanged: {fileID: 1051174360454480, guid: b3ae206d5a57a144eb34bbf84764cd13,
+      type: 2}
+  - redSource: {fileID: 1250499796658400, guid: d5c0d92537165fa40a3510d045775bb5,
+      type: 2}
+  - bluesource: {fileID: 1599466621493544, guid: 844abef5eade9c04396bc7c3c59f2ab0,
+      type: 2}
+  - blueTank: {fileID: 1597408339348474, guid: 42912d59ede42a142ace073d296278eb, type: 2}
+  - redTank: {fileID: 1669510197812248, guid: 09f736880423f8644bca00aca9043510, type: 2}
+  - blueUpgrade: {fileID: 1626593909791282, guid: 4451f95843b94324ea6357ba6b137566,
+      type: 2}
+  - redUpgrade: {fileID: 1060957935358422, guid: 7356f9932f36c9a47a45b5aec833feea,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
